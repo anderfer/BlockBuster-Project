@@ -1,6 +1,6 @@
-<p align="center">
-  <h1>BLOCKBUSTER</h1>
-</p>
+<div align="center">
+  <h1 style="text-align: center;">BLOCKBUSTER</h1>
+</div>
 
 
 
